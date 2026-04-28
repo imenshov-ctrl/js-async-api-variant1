@@ -87,7 +87,7 @@ async function apiFetch(url) {
 
 ## Demo відео
 
-> 📹 [Посилання на відео-демонстрацію](#)
+> https://github.com/imenshov-ctrl/js-async-api-variant1/blob/main/GitHub%20Explorer%20%E2%80%94%20Async_Await%20-%20Google%20Chrome%202026-04-28%2020-32-28.mp4
 
 ---
 
